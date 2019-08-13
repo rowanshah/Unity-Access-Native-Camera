@@ -10,7 +10,7 @@ public class WebCamRender : MonoBehaviour
 {
     public string deviceName;
     private string pic;   
-    private string url = "https://ccd7eb7a-b301-4086-a09b-fdbfeff398f9-bluemix.cloudant.com/";
+    private string url = "Enter URL";
     private string db = "Enter Database name";
     private string username = "Enter your username here";
     private string password = "Enter your password here";
